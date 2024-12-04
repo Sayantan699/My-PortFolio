@@ -671,7 +671,7 @@ header .fa-bars {
 @media only screen and (max-width: 650px) {
   header .fa-bars {
     display: block;
-    font-size: 25px;
+    font-size: 38px;
   }
   #sidemenu {
     position: fixed;
@@ -730,7 +730,7 @@ header .fa-bars {
   .about {
     flex-direction: column;
     position: relative;
-    right: 40px;
+    right: 42px;
     text-align: center;
   }
   .aboutme {
@@ -770,11 +770,15 @@ header .fa-bars {
     margin-right: 30px;
   }
   .skill-abi {
-    font-size: 39px;
+    text-align: center;
+    font-size: 35px;
   }
   .contact {
     position: relative;
     top: 450px;
+  }
+  .contactme {
+    font-size: 44px;
   }
   .contact-info {
     position: relative;
