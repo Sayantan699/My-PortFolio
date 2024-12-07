@@ -677,6 +677,7 @@ header .fa-bars {
   header .fa-bars {
     display: block;
     font-size: 38px;
+    color: #b74b4b;
   }
   #sidemenu {
     position: fixed;
