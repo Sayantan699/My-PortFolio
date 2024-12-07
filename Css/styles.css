@@ -76,7 +76,7 @@ p {
   gap: 8rem;
   background-color: black;
   padding: 50px;
-  padding-top: 9rem;
+  padding-top: 12rem;
   padding-left: 6rem;
 }
 .home .home-content h1 {
@@ -280,6 +280,7 @@ span {
 /* ------- SKill CSS Starts ------*/
 .skills {
   padding-bottom: 50px;
+  padding-top: 10rem;
 }
 .skill {
   display: flex;
@@ -341,6 +342,7 @@ span {
   padding: 2rem;
   margin-top: 200px;
   padding-bottom: 300px;
+  padding-top: 10rem;
 }
 .edu {
   display: flex;
@@ -422,6 +424,7 @@ span {
 /* ------------Projects CSS Starts -------------*/
 .projects {
   padding-bottom: 200px;
+  padding-top: 10rem;
 }
 .project-head {
   display: flex;
@@ -504,6 +507,7 @@ span {
 /* ----------------Services CSS Starts-------------*/
 .services {
   padding-bottom: 200px;
+  padding-top: 10rem;
 }
 .service-head {
   display: flex;
@@ -566,7 +570,7 @@ span {
 /* ---------------Contact CSS Starts --------------*/
 .contact {
   padding: 50px 50px 0 6rem;
-
+  padding-top: 10rem;
   max-height: 1600px;
 }
 .contactme {
